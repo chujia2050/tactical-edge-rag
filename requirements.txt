@@ -1,0 +1,15 @@
+langgraph
+langchain-community
+langchain-core
+langchain-openai
+langchainhub
+tiktoken
+transformers
+pypdf
+huggingface_hub
+langchain-huggingface
+langchain-pinecone
+dotenv
+IPython
+huggingface-hub
+pydantic

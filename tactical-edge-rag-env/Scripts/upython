@@ -1,0 +1,9 @@
+#!C:\Users\chenc\PycharmProjects\tactical-edge-rag\tactical-edge-rag-env\Scripts\python.exe
+
+import sys
+from upython import UPython
+
+command, *args = sys.argv[1:]
+
+u = UPython()
+getattr(u, command)(*args)
